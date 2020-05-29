@@ -8,6 +8,8 @@ Repo for demonstrating gradient descent algorithms in Python 3.
 
 `batch_and_stochastic` - Vectorised implementation of stochastic gradient descent and batch gradient descent
 
-## Installing libraries
+## Set Up
 These Python scripts only require the numpy library to be installed:
-`pip3 install numpy`
+```
+pip3 install numpy
+```
