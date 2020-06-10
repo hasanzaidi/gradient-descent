@@ -1,5 +1,5 @@
 # gradient-descent
-Repo for demonstrating gradient descent algorithms in Python 3.
+Repo for demonstrating gradient descent algorithms used in Machine Learning in Python 3.
 
 ## Files included
 `non_vec_batch.py` - Non-vectorised implementation of batch gradient descent
