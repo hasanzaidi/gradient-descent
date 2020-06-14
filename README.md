@@ -9,7 +9,18 @@ Repo for demonstrating gradient descent algorithms used in Machine Learning in P
 `batch_and_stochastic` - Vectorised implementation of stochastic gradient descent and batch gradient descent
 
 ## Set Up
-These Python scripts only require the numpy library to be installed:
+Install dependencies using:
 ```
-pip3 install numpy
+pipenv install --dev
 ```
+
+## Running
+Before running scripts need to go into pipenv shell:
+```
+pipenv shell
+```
+
+## License
+Copyright (c) 2020 Hasan Zaidi
+
+Published under the MIT License.
